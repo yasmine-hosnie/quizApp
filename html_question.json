@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Insert a Line Break",
+    "answer_2": "To Make Text Bold",
+    "answer_3": "To Make Text Italic",
+    "answer_4": "To Add a Space",
+    "right_answer": "To Insert a Line Break"
+  },
+  {
+    "title": "Which HTML Tag Is Used To Display the Largest Heading?",
+    "answer_1": "<h6>",
+    "answer_2": "<head>",
+    "answer_3": "<h1>",
+    "answer_4": "<heading>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "Which Attribute Is Used To Provide a Unique Name to an HTML Element?",
+    "answer_1": "class",
+    "answer_2": "id",
+    "answer_3": "style",
+    "answer_4": "name",
+    "right_answer": "id"
+  },
+  {
+    "title": "What Is The Correct HTML Element For Inserting a Line Break?",
+    "answer_1": "<break>",
+    "answer_2": "<lb>",
+    "answer_3": "<br>",
+    "answer_4": "<newline>",
+    "right_answer": "<br>"
+  },
+  {
+    "title": "Which HTML Attribute Specifies an Alternate Text For an Image?",
+    "answer_1": "title",
+    "answer_2": "alt",
+    "answer_3": "src",
+    "answer_4": "longdesc",
+    "right_answer": "alt"
+  },
+  {
+    "title": "What Is The Correct HTML For Creating a Hyperlink?",
+    "answer_1": "<a href='url'>Link</a>",
+    "answer_2": "<a>url</a>",
+    "answer_3": "<link>url</link>",
+    "answer_4": "<hyperlink href='url'>Link</hyperlink>",
+    "right_answer": "<a href='url'>Link</a>"
+  },
+  {
+    "title": "Which HTML Element Is Used To Define Important Text?",
+    "answer_1": "<strong>",
+    "answer_2": "<b>",
+    "answer_3": "<i>",
+    "answer_4": "<important>",
+    "right_answer": "<strong>"
+  },
+  {
+    "title": "Which HTML Tag Is Used To Create an Ordered List?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<list>",
+    "answer_4": "<order>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "Which HTML Tag Is Used To Create an Unordered List?",
+    "answer_1": "<list>",
+    "answer_2": "<ol>",
+    "answer_3": "<ul>",
+    "answer_4": "<unordered>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "Which HTML Attribute Is Used To Define Inline CSS Styles?",
+    "answer_1": "font",
+    "answer_2": "style",
+    "answer_3": "css",
+    "answer_4": "class",
+    "right_answer": "style"
+  }
+]
