@@ -3,6 +3,14 @@
 An interactive **Quiz Application** built using **HTML, CSS, and JavaScript**.  
 This app dynamically loads questions from a JSON file, tracks the user's progress, and shows the final score with styled feedback messages.
 
+---
+
+## 🎮 Live Demo
+*(Add your live link here if hosted, e.g., GitHub Pages or Netlify)*  
+👉 [Start Quiz](https://quiz-app-theta-umber-65.vercel.app/)
+
+---
+
 ## 🧩 Overview
 
 This **Quiz App** allows users to test their knowledge in HTML (or any other topic you define).  
